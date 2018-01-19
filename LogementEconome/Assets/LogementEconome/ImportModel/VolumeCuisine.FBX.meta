@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: f71f67c099ac94045a1ff7e2cc7ebaaf
+timeCreated: 1516185233
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Feu
+    100002: 'Meuble '
+    100004: Meuble2
+    100006: Meublesuspendu
+    100008: Meublesuspendu2
+    100010: Meublesuspendu3
+    100012: MurCuisine
+    100014: Plateforme
+    100016: "Poign\xE9e"
+    100018: "Poign\xE9e001"
+    100020: Porte
+    100022: Poubelle
+    100024: Refrigerateur
+    100026: Table
+    100028: Tableau
+    100030: //RootNode
+    400000: Feu
+    400002: 'Meuble '
+    400004: Meuble2
+    400006: Meublesuspendu
+    400008: Meublesuspendu2
+    400010: Meublesuspendu3
+    400012: MurCuisine
+    400014: Plateforme
+    400016: "Poign\xE9e"
+    400018: "Poign\xE9e001"
+    400020: Porte
+    400022: Poubelle
+    400024: Refrigerateur
+    400026: Table
+    400028: Tableau
+    400030: //RootNode
+    2300000: Feu
+    2300002: 'Meuble '
+    2300004: Meuble2
+    2300006: Meublesuspendu
+    2300008: Meublesuspendu2
+    2300010: Meublesuspendu3
+    2300012: MurCuisine
+    2300014: Plateforme
+    2300016: "Poign\xE9e"
+    2300018: "Poign\xE9e001"
+    2300020: Porte
+    2300022: Poubelle
+    2300024: Refrigerateur
+    2300026: Table
+    2300028: Tableau
+    3300000: Feu
+    3300002: 'Meuble '
+    3300004: Meuble2
+    3300006: Meublesuspendu
+    3300008: Meublesuspendu2
+    3300010: Meublesuspendu3
+    3300012: MurCuisine
+    3300014: Plateforme
+    3300016: "Poign\xE9e"
+    3300018: "Poign\xE9e001"
+    3300020: Porte
+    3300022: Poubelle
+    3300024: Refrigerateur
+    3300026: Table
+    3300028: Tableau
+    4300000: MurCuisine
+    4300002: Porte
+    4300004: Tableau
+    4300006: "Poign\xE9e"
+    4300008: 'Meuble '
+    4300010: Refrigerateur
+    4300012: Feu
+    4300014: Meuble2
+    4300016: Meublesuspendu
+    4300018: Meublesuspendu2
+    4300020: Plateforme
+    4300022: Meublesuspendu3
+    4300024: "Poign\xE9e001"
+    4300026: Table
+    4300028: Poubelle
+    6400000: Feu
+    6400002: 'Meuble '
+    6400004: Meuble2
+    6400006: Meublesuspendu
+    6400008: Meublesuspendu2
+    6400010: Meublesuspendu3
+    6400012: MurCuisine
+    6400014: Plateforme
+    6400016: "Poign\xE9e"
+    6400018: "Poign\xE9e001"
+    6400020: Porte
+    6400022: Poubelle
+    6400024: Refrigerateur
+    6400026: Table
+    6400028: Tableau
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
